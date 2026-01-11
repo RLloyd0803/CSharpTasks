@@ -1,0 +1,15 @@
+/workspaces/CSharpTasks/ConsoleApp4/obj/Debug/net10.0/ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharpTasks/ConsoleApp4/obj/Debug/net10.0/ConsoleApp4.AssemblyInfoInputs.cache
+/workspaces/CSharpTasks/ConsoleApp4/obj/Debug/net10.0/ConsoleApp4.AssemblyInfo.cs
+/workspaces/CSharpTasks/ConsoleApp4/obj/Debug/net10.0/ConsoleApp4.csproj.CoreCompileInputs.cache
+/workspaces/CSharpTasks/ConsoleApp4/obj/Debug/net10.0/ConsoleApp4.sourcelink.json
+/workspaces/CSharpTasks/ConsoleApp4/bin/Debug/net10.0/ConsoleApp4
+/workspaces/CSharpTasks/ConsoleApp4/bin/Debug/net10.0/ConsoleApp4.deps.json
+/workspaces/CSharpTasks/ConsoleApp4/bin/Debug/net10.0/ConsoleApp4.runtimeconfig.json
+/workspaces/CSharpTasks/ConsoleApp4/bin/Debug/net10.0/ConsoleApp4.dll
+/workspaces/CSharpTasks/ConsoleApp4/bin/Debug/net10.0/ConsoleApp4.pdb
+/workspaces/CSharpTasks/ConsoleApp4/obj/Debug/net10.0/ConsoleApp4.dll
+/workspaces/CSharpTasks/ConsoleApp4/obj/Debug/net10.0/refint/ConsoleApp4.dll
+/workspaces/CSharpTasks/ConsoleApp4/obj/Debug/net10.0/ConsoleApp4.pdb
+/workspaces/CSharpTasks/ConsoleApp4/obj/Debug/net10.0/ConsoleApp4.genruntimeconfig.cache
+/workspaces/CSharpTasks/ConsoleApp4/obj/Debug/net10.0/ref/ConsoleApp4.dll
